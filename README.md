@@ -5,6 +5,6 @@
 <h3>It's also used by some businesses to display images of their products and services in a more user friendly approach.<h3/>
 <p><p/>
   <p><p/>
-Responsive design that can be viewed on Desktop and Mobile devices using HTML5, CSS, JavaScript and pulling images from a REST API.
+The design is reponsive and can be viewed on Desktop and Mobile devices using HTML5, CSS, JavaScript and pulling images from a REST API.
   
 <a href="https://jmeboji.github.io/Infinite-Scroll">LIVE DEMO</a>
