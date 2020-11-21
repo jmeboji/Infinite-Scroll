@@ -4,4 +4,4 @@
 <p><p/>
 It's also used by some businesses to display images of their products and services in a more user friendly approach.<h3/>
   
-<h1 href="https://jmeboji.github.io/Infinite-Scroll">LIVE DEMO</h1>
+<a href="https://jmeboji.github.io/Infinite-Scroll">LIVE DEMO</a>
